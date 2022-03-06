@@ -15,6 +15,7 @@ Prima prova con jenkins
 ---
 ### obiettivi
 - permettere di avviare la pipeline da un repository privato
+- la pipeline deve avviare l'applicazione dopo che l'ha clonata
 
 
 ---
