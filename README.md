@@ -28,7 +28,7 @@ con OS Linux
 
 ---
 ### info
-tecnologie usate
+tecnologie usate:
 - Nodejs
 - Github
 - Jenkins
