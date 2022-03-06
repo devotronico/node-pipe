@@ -1,22 +1,22 @@
 pipeline {
-    agent any 
+    agent any
     stages {
         stage('Stage 1') {
             steps {
-                echo 'Hello world!' 
+                echo 'Hello world!'
             }
-        }   
+        }
         stage('Stage 2') {
             steps {
-                echo 'Clona il repository' 
+                echo 'Clona il repository'
                 sh 'rm -fr node-pipe'
                 sh 'git clone https://github.com/redeluni/node-pipe.git'
             }
         }
-        stage('Stage 3') {
+        stage('Stage ultimo') {
             steps {
-                echo 'FINE!' 
+                echo 'FINE!'
             }
-        }   
+        }
     }
 }
