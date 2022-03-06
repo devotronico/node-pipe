@@ -30,6 +30,7 @@ con OS Linux
 ### info
 tecnologie usate
 - Nodejs
+- Github
 - Jenkins
 - localhost.run per il tunnel
 - deploy su macchina locale con linux
