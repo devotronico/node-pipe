@@ -2,7 +2,7 @@
 
 ---
 ### data
-06/03/2022
+07/03/2022
 
 ---
 ### percorso del progetto
@@ -34,4 +34,3 @@ tecnologie usate:
 - Jenkins
 - localhost.run per il tunnel
 - deploy su macchina locale con linux
-
